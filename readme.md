@@ -78,3 +78,8 @@ Key components include:
 - **Header**: Contains project title, navigation buttons, and project overview.
 - **Main Section**: Displays a gallery of Sanrio characters with images and names.
 - **Footer**: Includes social media links and contact information.
+
+#### What technology is used and how is it used?
+- **HTML**: Used for creating the structure and content of the webpage.
+- **CSS**: Used for styling elements such as fonts, colors, layout, and responsiveness.
+- **GitHub**: Used for version control and hosting project files, including images like the Hello Kitty picture linked below.
