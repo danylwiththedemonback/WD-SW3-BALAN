@@ -54,25 +54,23 @@ alt="whitedog" width="130" height="100">
 ---
 
 ## Overview
-
-<!-- TODO: To be changed -->
-<!-- The following are just sample -->
-This project involves creating multiple static and animated headers and footers using HTML and CSS. Each header and footer will showcase different styles, demonstrating creativity in design and implementation using only these two technologies.
+For this project, HTML and CSS will be used to create several static and animated headers and footers. With just these two technologies, each header and footer will display a variety of styles, showcasing inventive design and implementation.
 
 Guiding Question:
 What is the project?
-  -The project entails the creation of five distinct static and animated headers and five static and animated footers using HTML and CSS exclusively.
+  >> The project involves utilizing only HTML and CSS to create five different static and animated headers and five different static and animated footers.
   
 Whats the purpose?
-  -The purpose is to showcase proficiency in HTML and CSS by designing visually appealing and functional headers and footers that can be easily integrated into web projects.
-
+  >> The goal is to demonstrate HTML and CSS expertise by creating headers and footers that are aesthetically pleasing and useful and that can be quickly incorporated into web projects.
+  
 What are key components?
-  -Key components include:
-  *Five static and animated header designs.
-  *Five static and animated footer designs.
+  
+ 1. Five header designs, both animated and static.
+2. Five footer designs, both dynamic and static.
+
 
 What technology used and how it is used?
-  -HTML is used for structuring the headers and footers, while CSS is employed to style and animate them. CSS animations and transitions are utilized to create dynamic effects where applicable.
+  >>The headers and footers are structured using HTML, and styled and animated using CSS. When appropriate, CSS transitions and animations are used to produce dynamic effects.
 
 ### Key Components
 <!-- TODO: List of Key Components -->
