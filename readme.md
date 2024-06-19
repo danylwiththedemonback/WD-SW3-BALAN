@@ -10,18 +10,17 @@
 alt="whitedog" width="130" height="100">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">HEADER AND FOOTER</h3>
+  <h3 align="center">SW 3</h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  SEATWORK 3
 </div>
 
 <br />
 
 <!-- TODO: Change the zyx-0314 into your github username  -->
 <!-- TODO: Change the WD-Template-Project into the same name of your folder -->
-![](https://visit-counter.vercel.app/counter.png?page=zyx-0314/WD-Template-Project)
+![](https://visit-counter.vercel.app/counter.png?page=/DallleHurst/WD_SEATWORK3)
 
 ---
 
@@ -56,30 +55,80 @@ alt="whitedog" width="130" height="100">
 
 ## Overview
 
-This project showcases a simple webpage layout featuring a header, gallery of Sanrio characters, and a footer. It serves as an exercise in HTML structure and CSS styling.
+<!-- TODO: To be changed -->
+<!-- The following are just sample -->
+This project involves creating multiple static and animated headers and footers using HTML and CSS. Each header and footer will showcase different styles, demonstrating creativity in design and implementation using only these two technologies.
 
-### Description
+Guiding Question:
+What is the project?
+  -The project entails the creation of five distinct static and animated headers and five static and animated footers using HTML and CSS exclusively.
+  
+Whats the purpose?
+  -The purpose is to showcase proficiency in HTML and CSS by designing visually appealing and functional headers and footers that can be easily integrated into web projects.
 
-The project aims to demonstrate foundational web development skills by implementing a static webpage with:
-- A header section containing navigation links and project information.
-- A main section displaying a gallery of Sanrio characters.
-- A footer section with social media links and contact information.
+What are key components?
+  -Key components include:
+  *Five static and animated header designs.
+  *Five static and animated footer designs.
 
-### Guiding Questions
+What technology used and how it is used?
+  -HTML is used for structuring the headers and footers, while CSS is employed to style and animate them. CSS animations and transitions are utilized to create dynamic effects where applicable.
 
-#### What is the project?
-The project is a static webpage built using HTML and CSS to create a visually appealing layout showcasing Sanrio characters.
+### Key Components
+<!-- TODO: List of Key Components -->
+<!-- The following are just sample -->
+Static and Animated Headers
+  -Five distinct designs demonstrating creativity and variety in layout, typography, and visual elements.
+  -CSS animations applied to enhance user interaction and visual appeal.
 
-#### What's the purpose?
-The purpose is to practice structuring a webpage with a header, main content area, and footer, and to apply CSS styling for aesthetic presentation.
+Static and Animated Footers
+  -Five different designs complementing the headers in style and theme.
+  -Implementation of CSS for styling and adding interactive elements like hover effects or transitions.
 
-#### What are key components?
-Key components include:
-- **Header**: Contains project title, navigation buttons, and project overview.
-- **Main Section**: Displays a gallery of Sanrio characters with images and names.
-- **Footer**: Includes social media links and contact information.
 
-#### What technology is used and how is it used?
-- **HTML**: Used for creating the structure and content of the webpage.
-- **CSS**: Used for styling elements such as fonts, colors, layout, and responsiveness.
-- **GitHub**: Used for version control and hosting project files, including images like the Hello Kitty picture linked below.
+### Technology
+<!-- TODO: List of Technology Used -->
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
+
+## Rules, Practices and Principles
+1. Always use `WD-` in the front of the Title of the Project for the Subject followed by your custom naming.
+2. Do not rename any .html files; always use `index.html` as the filename.
+3. Place Files in their respective folders.
+4. All file naming are in camel case.
+   - Camel case is naming format where there is no white space in separation of each words, the first word is in all lower case while the succeding words first letter are in upper followed by lower cased letters.
+   - ex.: buttonAnimatedStyle.css
+5. Use only `External CSS`.
+6. Renaming of Pages folder names are a must, and relates to what it is doing or data it holding.
+7. File Structure to follow below.
+
+```
+WD-ProjectName
+└─ assets
+|   └─ css
+|   |   └─ style.css
+|   └─ img
+|   |   └─ fileWith.jpeg/.jpg/.webp/.png
+|   └─ js
+|       └─ script.js
+└─ pages
+|  └─ pageName
+|     └─ assets
+|     |  └─ css
+|     |  |  └─ style.css
+|     |  └─ img
+|     |  |  └─ fileWith.jpeg/.jpg/.webp/.png
+|     |  └─ js
+|     |     └─ script.js
+|     └─ index.html
+└─ index.html
+└─ readme.md
+```
+
+## Resources
+
+<!-- TODO: Add References -->
+| Title | Purpose | Link |
+|-|-|-|
+| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
