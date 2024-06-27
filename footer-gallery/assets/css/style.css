@@ -1,0 +1,215 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+2:wght@400;700&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Baloo 2', cursive;
+}
+
+body {
+    background-color: #FFF0F5;
+    color: #6B7280;
+}
+header {
+    background-color: pink;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+}
+
+header nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+header nav ul li {
+    display: inline;
+}
+
+header nav ul li a button {
+    background-color: #fff;
+    color: pink;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    text-decoration: none;
+    font-family: 'Poppins', sans-serif;
+}
+
+
+
+h1 {
+    text-align: center;
+    margin: 2rem 0;
+    color: #FF69B4;
+    font-size: 3rem;
+    text-transform: uppercase;
+}
+
+h2 {
+    color: #FF69B4;
+}
+
+section {
+    margin-bottom: 5%;
+    padding: 1rem;
+    border-radius: 1rem;
+    background-color: #FFE6F7;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+a {
+    color: #FF69B4;
+    text-decoration: none;
+    font-weight: bolder;
+    font-size: 1.5rem;
+    transition: all 0.3s ease;
+}
+
+a:hover {
+    color: #FFB6C1;
+}
+
+/* Common logo styles */
+.logo-img {
+    height: 2rem;
+    width: 2rem;
+    transition: transform 0.2s;
+}
+
+.logo-img:hover {
+    transform: scale(1.1);
+}
+
+/* First Design */
+.S1 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.S1logo img {
+    padding: 10px;
+    height: 2rem; /* Adjust height as needed */
+    width: 2rem; /* Adjust width as needed */
+}
+
+.S1Menu {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+
+/* Second Design */
+.S2 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.S2Menu {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+
+.S2acc a {
+    padding: 0.5rem 1rem;
+    background-color: #FF69B4;
+    color: white;
+    border-radius: 1rem;
+}
+
+.S2acc a:hover {
+    background-color: #FFB6C1;
+}
+
+/* Third Design */
+.S3 {
+    display: flex;
+    justify-content: center;
+}
+
+.S3Menu {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+
+.S3logo img {
+    height: 2rem; /* Adjust height as needed */
+    width: 2rem; /* Adjust width as needed */
+}
+
+/* Fourth Design */
+.S4 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.S4Top {
+    display: flex;
+    justify-content: center;
+}
+
+.S4Lower {
+    display: flex;
+    align-items: center;
+}
+
+.S4Menu {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    padding-bottom: 2%;
+}
+
+.S4logo img {
+    height: 2rem; /* Adjust height as needed */
+    width: 2rem; /* Adjust width as needed */
+}
+
+/* Fifth Design (You can continue adding styles for other sections similarly) */
+.S5 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.S5logo img {
+    height: 2rem; /* Adjust height as needed */
+    width: 2rem; /* Adjust width as needed */
+}
+
+.S5Menu {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+
+.S5Profile img {
+    height: 2rem;
+    width: 2rem;
+    border-radius: 50%;
+    border: 2px solid #FF69B4;
+    transition: transform 0.2s;
+}
+
+.S5Profile img:hover {
+    transform: scale(1.2);
+}
+
+/* Dynamic Designs (D1, D2, etc.) can follow a similar pattern for logo sizes */
+.D1logo img,
+.D2logo img,
+.D3logo img,
+.D4logo img,
+.D5logo img {
+    height: 2rem; /* Adjust height as needed */
+    width: 2rem; /* Adjust width as needed */
+}
